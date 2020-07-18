@@ -1,2 +1,0 @@
-# WebBodar
-websida för bodar
