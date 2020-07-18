@@ -1,0 +1,20 @@
+﻿
+h1 {
+    font-size: 30px;
+    font-style: oblique;
+    font-display: auto;
+    text-emphasis-color: #0094ff;
+    text-align: center;
+    font-weight: bold;
+}
+p
+{
+
+	font-size:12px;
+	font-style:oblique;
+	font-display:auto;
+	text-emphasis-color:#000000;
+	text-align:center;
+	font-weight:400;
+}
+
